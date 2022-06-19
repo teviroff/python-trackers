@@ -1,0 +1,15 @@
+# Python
+__pycache__
+venv
+
+# Project config
+pyproject.toml
+setup.cfg
+dist
+*.egg-info
+
+# Dev branch
+dev
+
+# Other
+test.py
